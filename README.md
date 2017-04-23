@@ -13,7 +13,7 @@ This repository works as the front end application level design in conjunction w
 
 ## Authors
 
-* **Bashar Jarar** -Front End- [PurpleBooth](https://github.com/PurpleBooth)
+* **Bashar Jarar** -Front End
 * **Alexander Meijer** -Back End - (https://github.com/ameijer)
 
 ## License and Copyright
