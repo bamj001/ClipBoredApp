@@ -1,7 +1,7 @@
 # ClipBoredApp
 
 
-ClipBored is an Android application that was designed to give users the ability to watch YouTube (r) videos in categories of their preference. 
+ClipBored is an Android application that was designed to give users the ability to watch YouTube © videos in categories of their preference. 
 
 This application was designed in 2013 and built for Android 4.2 JellyBean (Target SDK = 17). 
 
@@ -20,5 +20,5 @@ This repository works as the front end application level design in conjunction w
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-Copyright (C) 2017 Bashar Jarrar and Alexander Meijer
+Copyright © 2017 Bashar Jarrar and Alexander Meijer
 
