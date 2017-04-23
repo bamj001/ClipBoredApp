@@ -20,5 +20,7 @@ This repository works as the front end application level design in conjunction w
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+© 2015 Google Inc. All rights reserved. YouTube is a trademark of Google Inc.
+
 Copyright © 2017 Bashar Jarrar and Alexander Meijer
 
