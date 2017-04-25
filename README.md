@@ -8,7 +8,7 @@ This application was designed in 2013 and built for Android 4.2 JellyBean (Targe
 This repository works as the front end application level design in conjunction with backend cloud endpoint code that can be found on this repository: https://github.com/ameijer/ClipBoredBackend
 ## Built With
 
-* [Eclipse](http://www.dropwizard.io/1.0.2/docs/) - The IDE for Android for Java before Android Studio came out
+* [Android Developer Toolkit (now Android Studio) ](https://developer.android.com/studio/index.html) - The IDE for Android for Java before Android Studio came out
 
 ## Authors
 
